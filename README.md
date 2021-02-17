@@ -1,7 +1,7 @@
 # Getting Started with Tasks Tracker App
-#البدء ببرنامج متابعة المهام
+# البدء ببرنامج متابعة المهام
 
-####صورة من البرنامج 
+#### صورة من البرنامج 
 #### Screenshot
 
 ![Screenshot](screenshot.png)
