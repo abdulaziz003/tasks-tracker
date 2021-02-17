@@ -18,6 +18,8 @@
 ### انسخ الملفات لجهازك
 
 `git clone https://github.com/abdulaziz003/tasks-tracker.git`
+
+
 In the project directory, you can run:
 في مجلد المشرع تستطيع استخدام الاوامر التالية:
 
